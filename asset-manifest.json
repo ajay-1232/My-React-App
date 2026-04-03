@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/,https://ajay-1232.github.io/My-React-App/static/css/main.e6c13ad2.css",
+    "main.js": "/,https://ajay-1232.github.io/My-React-App/static/js/main.5a41e7c3.js",
+    "static/js/453.e9e7ec89.chunk.js": "/,https://ajay-1232.github.io/My-React-App/static/js/453.e9e7ec89.chunk.js",
+    "index.html": "/,https://ajay-1232.github.io/My-React-App/index.html",
+    "main.e6c13ad2.css.map": "/,https://ajay-1232.github.io/My-React-App/static/css/main.e6c13ad2.css.map",
+    "main.5a41e7c3.js.map": "/,https://ajay-1232.github.io/My-React-App/static/js/main.5a41e7c3.js.map",
+    "453.e9e7ec89.chunk.js.map": "/,https://ajay-1232.github.io/My-React-App/static/js/453.e9e7ec89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5a41e7c3.js"
+  ]
+}
